@@ -109,8 +109,10 @@ ex)
 
 ## 인생
 
-
 <br>
+
+## 열정
+- [언제나 당신의 열정이 곧 당신의 결정](./theme/passion/infiniteflow.md)
 
 # 👥 Contributors
 
